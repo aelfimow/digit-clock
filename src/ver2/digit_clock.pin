@@ -1,0 +1,40 @@
+Pin Name/Usage  : Location : Dir.   : I/O Standard : Voltage : I/O Bank : User
+------------------------------------------------------------------------------
+GND+            : 1        :        :              :         :          :     
+led_clk_i       : 2        : input  : LVTTL        :         :          : Y   
+VCCINT          : 3        : power  :              : 3.3V    :          :     
+key_a           : 4        : input  : LVTTL        :         :          : Y   
+debug_o         : 5        : output : LVTTL        :         :          : Y   
+key_b           : 6        : input  : LVTTL        :         :          : Y   
+TDI             : 7        : input  : LVTTL        :         :          : N   
+GND             : 10       : gnd    :              :         :          :     
+TMS             : 13       : input  : LVTTL        :         :          : N   
+VCCIO           : 15       : power  :              : 3.3V    :          :     
+GND             : 17       : gnd    :              :         :          :     
+dp_o            : 18       : output : LVTTL        :         :          : Y   
+lednr_o[7]      : 19       : output : LVTTL        :         :          : Y   
+lednr_o[5]      : 20       : output : LVTTL        :         :          : Y   
+lednr_o[6]      : 21       : output : LVTTL        :         :          : Y   
+GND             : 22       : gnd    :              :         :          :     
+VCCINT          : 23       : power  :              : 3.3V    :          :     
+lednr_o[4]      : 24       : output : LVTTL        :         :          : Y   
+lednr_o[3]      : 25       : output : LVTTL        :         :          : Y   
+lednr_o[2]      : 26       : output : LVTTL        :         :          : Y   
+lednr_o[1]      : 27       : output : LVTTL        :         :          : Y   
+lednr_o[0]      : 28       : output : LVTTL        :         :          : Y   
+middle_points_o : 29       : output : LVTTL        :         :          : Y   
+GND             : 30       : gnd    :              :         :          :     
+led_g           : 31       : output : LVTTL        :         :          : Y   
+TCK             : 32       : input  : LVTTL        :         :          : N   
+led_f           : 33       : output : LVTTL        :         :          : Y   
+led_e           : 34       : output : LVTTL        :         :          : Y   
+VCCIO           : 35       : power  :              : 3.3V    :          :     
+GND             : 36       : gnd    :              :         :          :     
+led_d           : 37       : output : LVTTL        :         :          : Y   
+TDO             : 38       : output : LVTTL        :         :          : N   
+led_c           : 39       : output : LVTTL        :         :          : Y   
+led_b           : 40       : output : LVTTL        :         :          : Y   
+led_a           : 41       : output : LVTTL        :         :          : Y   
+GND             : 42       : gnd    :              :         :          :     
+base_clk_i      : 43       : input  : LVTTL        :         :          : Y   
+GND+            : 44       :        :              :         :          :     

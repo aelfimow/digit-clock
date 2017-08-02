@@ -1,0 +1,42 @@
+Pin Name/Usage : Location  : Dir.   : I/O Standard : Voltage : I/O Bank : User Assignment
+-----------------------------------------------------------------------------------------
+VCCIO1         : 9         : power  :              : 3.3V    : 1        :                
+GNDIO          : 10        : gnd    :              :         : 1        :                
+GNDINT         : 11        : gnd    :              :         : 1        :                
+key_a          : 12        : input  : LVTTL        :         : 1        : N              
+VCCINT         : 13        : power  :              : 3.3V    :          :                
+base_clk_i     : 14        : input  : LVTTL        :         : 1        : N              
+led_clk_i      : 15        : input  : LVTTL        :         : 1        : N              
+TMS            : 22        : input  :              :         : 1        :                
+TDI            : 23        : input  :              :         : 1        :                
+TCK            : 24        : input  :              :         : 1        :                
+TDO            : 25        : output :              :         : 1        :                
+VCCIO1         : 31        : power  :              : 3.3V    : 1        :                
+GNDIO          : 32        : gnd    :              :         : 1        :                
+lednr_o[2]     : 34        : output : LVTTL        :         : 1        : N              
+lednr_o[5]     : 35        : output : LVTTL        :         : 1        : N              
+lednr_o[0]     : 36        : output : LVTTL        :         : 1        : N              
+lednr_o[1]     : 37        : output : LVTTL        :         : 1        : N              
+lednr_o[7]     : 38        : output : LVTTL        :         : 1        : N              
+lednr_o[6]     : 39        : output : LVTTL        :         : 1        : N              
+key_b          : 40        : input  : LVTTL        :         : 1        : N              
+lednr_o[3]     : 42        : output : LVTTL        :         : 1        : N              
+lednr_o[4]     : 43        : output : LVTTL        :         : 1        : N              
+VCCIO1         : 45        : power  :              : 3.3V    : 1        :                
+GNDIO          : 46        : gnd    :              :         : 1        :                
+dp_o           : 47        : output : LVTTL        :         : 1        : N              
+led_f          : 52        : output : LVTTL        :         : 2        : N              
+led_a          : 57        : output : LVTTL        :         : 2        : N              
+led_g          : 58        : output : LVTTL        :         : 2        : N              
+VCCIO2         : 59        : power  :              : 3.3V    : 2        :                
+GNDIO          : 60        : gnd    :              :         : 1        :                
+led_c          : 61        : output : LVTTL        :         : 2        : N              
+led_b          : 62        : output : LVTTL        :         : 2        : N              
+VCCINT         : 63        : power  :              : 3.3V    :          :                
+led_d          : 64        : output : LVTTL        :         : 2        : N              
+GNDINT         : 65        : gnd    :              :         : 1        :                
+led_e          : 66        : output : LVTTL        :         : 2        : N              
+GNDIO          : 79        : gnd    :              :         : 1        :                
+VCCIO2         : 80        : power  :              : 3.3V    : 2        :                
+GNDIO          : 93        : gnd    :              :         : 1        :                
+VCCIO2         : 94        : power  :              : 3.3V    : 2        :                
